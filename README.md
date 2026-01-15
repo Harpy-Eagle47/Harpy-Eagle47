@@ -1,3 +1,5 @@
+### Hi, my name is Harper, and I'm currently learning computer science basics. I'm excited to do this :D
+
 ## Github intro notes
 
 ### Git: a distributed version control system which tracks changes and shares, as well as allow people to work together
